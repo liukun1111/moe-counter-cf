@@ -8,8 +8,8 @@
   "kv_namespaces": [
     {
       "binding": "KV",
-      "id": "<CF_KV_ID>",
-      "preview_id": "<CF_PREVIEW_KV_ID>"
+      "id": "9d74ae93897a49049ce36e1b98f15bdf",
+      "preview_id": "9d74ae93897a49049ce36e1b98f15bdf"
     }
   ],
   "observability": {
